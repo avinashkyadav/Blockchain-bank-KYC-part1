@@ -7,7 +7,6 @@ pragma solidity ^0.5.0;
 
 ///contract is a keyword 
 
-/// @title bacnk KYC with delegation.
 contract bank_KYC {
     
     struct Customer {
